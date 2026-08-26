@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Timothy Campbell 👋
+
+I am pursuing a B.S. at Wright State University in Information Technology and Cybersecurity.
+
+Projects:
+
+- Game development
+- Working on learning more about Networking and Databases
 
 <!--
 **Campbell-621/Campbell-621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
